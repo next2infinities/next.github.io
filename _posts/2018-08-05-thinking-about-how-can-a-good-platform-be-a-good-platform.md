@@ -13,7 +13,7 @@ Thinking about how can a godd platform be a good platform
 <br/>
 <br/>
 <br/>
-<br/><p>Next Change the world.</p>
+<br/>Next Change the world.
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## 关于好平台要满足什么条件的个人思考（一）
 

@@ -8,6 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [利益, 平台]
 ---
 
+Thinking about how can a godd platform be a good platform
 
 ## 关于好平台要满足什么条件的个人思考（一）
 
